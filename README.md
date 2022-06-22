@@ -8,6 +8,8 @@ A clone of Google's infinite dinosaur runner used to demonstrate the canvas API.
 
 https://codepen.io/akm2/pen/AxGzJb
 
+https://dangries.com/rectangleworld/demos/MorphingCurve/MorphingCurve_SolidGradient.html
+
 ## Interactive Algorithms
 
 https://bomomo.com/
@@ -20,6 +22,7 @@ https://andrew.wang-hoyer.com/experiments/cloth/
 ## Colour Cycling
 
 http://www.effectgames.com/demos/canvascycle/
+
 
 
 
