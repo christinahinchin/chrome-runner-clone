@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	background-color: rgb(12, 12, 12);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100vh;
+}
+
+#score, #highscore {
+	color: rgb(68, 68, 68);
+	font-family: 'pixel';
+	font-size: 32px;
+}
+
+#score {
+	position: relative;
+	top: 80px;
+	left: 10px;
+}
+
+#highscore {
+	position: relative;
+	top: 45px;
+	left: 750px;
+}
+
+@font-face {
+	font-family: 'pixel';
+	src: url('../resources/ARCADECLASSIC.TTF')
+}
